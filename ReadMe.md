@@ -64,6 +64,10 @@
 
 
 ## Books and Resources
-- [Exploring ES6](http://exploringjs.com/es6/index.html)
-- [The Modern Javascript Tutorial](https://javascript.info/)
+- [Book - Exploring ES6](http://exploringjs.com/es6/index.html)
+- [Book - A Hands-On Guide to the Fundamentals of Modern JavaScript](https://www.oreilly.com/library/view/learning-javascript-a/9780133016321/)
+- [Web - The Modern Javascript Tutorial](https://javascript.info/)
+- [Web - Eloquent JavaScript](http://eloquentjavascript.net/)
+- [Video - JavaScript: Getting Started](https://www.pluralsight.com/courses/javascript-getting-started)
+- [Video  - JavaScript Fundamentals](https://www.pluralsight.com/courses/javascript-fundamentals)
 
