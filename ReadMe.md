@@ -58,9 +58,9 @@
  - [Modules](https://developers.google.com/web/fundamentals/primers/modules)
 
  ## Some interesting articles
- - [Deep dive into the murky waters of script loading](https://www.html5rocks.com/en/tutorials/speed/script-loading/)
- - [Is JS single-threaded?](https://www.red-gate.com/simple-talk/dotnet/asp-net/javascript-single-threaded/)
- - [JavaScript. The Core.](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/)
+ - [Deep dive into the murky waters of script loading](https://www.html5rocks.com/en/tutorials/speed/script-loading/) - Talks about different techniques of loading the script such as *async* and *defer* and pros and cons of each technique.
+ - [Is JS single-threaded?](https://www.red-gate.com/simple-talk/dotnet/asp-net/javascript-single-threaded/) - Arguments in the context of Java Script. Discussions around Async programming using WebWorker and SetInterval.
+ - [JavaScript. The Core.](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/) - Deep dive into functions, objects and _proto_
 
 
 ## Books and Resources
