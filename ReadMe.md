@@ -14,7 +14,8 @@
   - [Strings Part II](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods)
   - [Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
   - [Arrays](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
-  - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+  - [Functions Part I](https://javascript.info/function-basics)
+  - [Functions Part II](https://javascript.info/function-expressions-arrows)
 
 ## Step 2: Hands on (codeacademy)
   - Open [this](https://www.codecademy.com/learn/introduction-to-javascript) link
